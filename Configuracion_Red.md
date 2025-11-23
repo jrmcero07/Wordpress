@@ -25,4 +25,4 @@ Si tienes puesto el 0.0.0.0 y aun así tu compañer@ no puede entrar, el culpabl
 1. Solución rápida: Al arrancar Docker por primera vez, Windows suele preguntar si dar permiso en redes "Privadas" o "Públicas". Asegúrate de marcar ambas casillas.
 
 2. Solución manual: Añadir una regla de entrada al puerto 8080 TCP en el Firewall de Windows Defender.
-3. Si tuvistes quecambiar el puerto 8080 a otro puerto por estar ocupado, es importante que lo recuerdes para poder acceder desde tu navegador y que todas las referencias en la configuración de firewall, sean las del puerto realmente asignado.
+3. Si tuvistes que cambiar el puerto 8080 a otro puerto por estar ocupado, es importante que lo recuerdes para poder acceder desde tu navegador y que todas las referencias en la configuración de firewall, sean las del puerto realmente asignado.
